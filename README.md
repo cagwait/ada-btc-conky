@@ -9,4 +9,4 @@ Cardano Price is in USD
 (using HitBTC api).
 
 <img src="conky.png">
-<img src="conky.png">
+
