@@ -1,4 +1,4 @@
--- ada-btc-conky.conf by cagwait
+-- ada-btc-conky.conf by cagwait -  https://github.com/cagwait/ada-btc-conky.git
 
 
 conky.config = {
