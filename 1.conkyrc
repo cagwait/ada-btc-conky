@@ -123,8 +123,8 @@ conky.text = [[
       
       ${image ~/images/border.png}     
          ${color ffffff}${font Roboto:size=27}Up. ${color eb256d}$uptime_short
-  ${color ffffff}${font Noto Sans:size=10} CPU :${offset 20}${color ffffff}${cpu cpu0}%
-       RAM  : ${offset 10}$mem / ${memmax} 
+  ${color ffffff}${font Noto Sans:size=10} CPU :${offset 25}${cpu cpu0}%
+       RAM  : ${offset 15}$mem / ${memmax} 
        Disk  : ${offset 15}${fs_used /} / ${fs_size /}
       
        Down  : ${offset 5}${downspeedf wlan0} KB/s   Up : ${upspeedf wlan0} KB/s
