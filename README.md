@@ -7,3 +7,5 @@ Bitcoin Price defaults to GBP. For USD change txt line to 'currency=USD'
 (using Coinbase api).
 Cardano Price is in USD
 (using HitBTC api).
+
+<img src="Conky.png">
